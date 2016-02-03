@@ -7,10 +7,10 @@ Create an Android application that does the following:
     A. The first activity displays your name (hardcoded) and a profile photo box. Underneath it should be a button with the label “Change Picture”. Clicking on the button should take you to the second activity.
 ```
 ```
-B. The second activity shows an image gallery. Whether you choose to implement it by yourself and fill it with your own images or use an intent is up to you. This allows you to select an image and brings you back to the first activity, displaying the selected image in the profile picture box.
+    B. The second activity shows an image gallery. Whether you choose to implement it by yourself and fill it with your own images or use an intent is up to you. This allows you to select an image and brings you back to the first activity, displaying the selected image in the profile picture box.
 ```
 ```
-C. Although the application sounds simple, try to make sure that your app will gracefully end on every occasion. When we test your app, we will try selecting images iteratively (so that your app will switch between the 1st and 2nd activities iteratively). We will also test whether your app will remember the image last chosen once it’s shut down and brought up again, or between two usage sessions.
+    C. Although the application sounds simple, try to make sure that your app will gracefully end on every occasion. When we test your app, we will try selecting images iteratively (so that your app will switch between the 1st and 2nd activities iteratively). We will also test whether your app will remember the image last chosen once it’s shut down and brought up again, or between two usage sessions.
 ```
 
 # Description
