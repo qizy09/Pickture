@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ECE150 HW1</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText1">Change Picture</string>
+    <string name="noColumnIndex">Loading Image: no column index!</string>
+    <string name="pick_image_intent_text">Pick Image Intent</string>
+</resources>
